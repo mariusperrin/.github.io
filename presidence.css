@@ -1,23 +1,27 @@
 body {
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1600px-Flag_of_Sweden.svg.png); 
+  background-color: #2F4F4F;
   background-position: 50% 50%;
   font-family: "Comic Sans", sans-serif;
 }
 
 h1 {
-  color:#A52A2A;
+  color:#8B0000;
   font-size:5em;
-  font-family:monospace;
+  font-family: "Times", serif;
+  position: relative;
+  left: 200px;
 }
 
 p { 
  font-size: 2em;
- font-style: !important;
+ ;
+ 
 }
 
 img {
 	width: 300px;
 	height: 350px;
     position: relative;
-    left: 350px;
+    left: 400px;
+  
 }
