@@ -14,7 +14,8 @@ h1 {
 
 p { 
  font-size: 2em;
- ;
+ position: relative;
+ left: 250px;
  
 }
 
@@ -24,4 +25,9 @@ img {
     position: relative;
     left: 400px;
   
+}
+
+a {
+  color: #000000;
+ 
 }
