@@ -2,6 +2,7 @@ body {
   background-color: #2F4F4F;
   background-position: 50% 50%;
   font-family: "Comic Sans", sans-serif;
+  cursor:
 }
 
 h1 {
@@ -10,6 +11,11 @@ h1 {
   font-family: "Times", serif;
   position: relative;
   left: 200px;
+  border-width: 2px;
+  border-style: ridge;
+  border-color: black;
+  border-top-left-radius: 14px;
+  border-top-width: thin;
 }
 
 p { 
@@ -24,10 +30,12 @@ img {
 	height: 350px;
     position: relative;
     left: 400px;
-  
+  cursor: url(http://images.toucharger.com/img/graphiques/curseurs/argent/symboles/dollar.16988.gif), pointer; 
 }
 
 a {
   color: #000000;
  
 }
+
+
