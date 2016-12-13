@@ -31,9 +31,9 @@ img {
     position: relative;
     left: 400px;
   cursor: url(http://images.toucharger.com/img/graphiques/curseurs/argent/symboles/dollar.16988.gif), pointer; 
-	  border-width:6px;
-border-style:groove;
-border-color:red; 
+  border-width:6px;
+  border-style:groove;
+  border-color:red; 
 }
 
 a {
